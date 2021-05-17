@@ -12,6 +12,7 @@ or install it from source:
 
 ```sh
 git clone https://github.com/AgentMaker/Paddle-PerceptualSimilarity.git
+cd Paddle-PerceptualSimilarity
 pip install .
 ```
 
